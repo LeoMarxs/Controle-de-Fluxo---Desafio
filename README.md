@@ -1,7 +1,11 @@
-# DIO - Trilha Java Básico
-www.dio.me
-
-## Controle de Fluxo - Desafio
+<h1>
+    <a href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <span> Trilha Java Básico </span>
+    www.dio.me
+</h1>
+  
+## 🚩 Controle de Fluxo - Desafio
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Controle de Fluxo codificando o seguinte cenário.
 
